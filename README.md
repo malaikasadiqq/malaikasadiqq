@@ -17,5 +17,6 @@ End-to-end order & revenue dashboard built in **Amazon QuickSight**, joining six
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malaikasadiq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](malaikasdq65@gmail.com)
+[<img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/>](https://www.linkedin.com/in/malaikasadiq)
+[<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Email"/>](mailto:malaikasdq65@gmail.com)
+
